@@ -1,6 +1,6 @@
 (❁´◡`❁)
 - 👋 I’m Kashish.
-- 🌱 I’m currently learning c++.
+- 🌱 Web development and object oriented programming enthusiast
 - 📫 How to reach me- kashishmistry1206@gmail.com
 
 
