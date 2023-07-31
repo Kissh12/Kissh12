@@ -1,6 +1,6 @@
 (❁´◡`❁)
 - 👋 I’m Kashish.
-- 🌱 Web development and object oriented programming enthusiast
+- 🌱 Data Science Enthusiast
 - 📫 How to reach me- kashishmistry1206@gmail.com
 
 
